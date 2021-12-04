@@ -10,5 +10,5 @@ I am Farhod from Moscow.  Recently I have completed Yandex Praktikum frontend de
 ![MongoDB](https://img.shields.io/badge/-MongoDB-212121?style=for-the-badge&logo=MongoDB)
 ![Express.js](https://img.shields.io/badge/-Express.js-212121?style=for-the-badge&logo=Express)
 ![webpack](https://img.shields.io/badge/-webpack-212121?style=for-the-badge&logo=webpack)
-![ООП](https://img.shields.io/badge/-ООП-212121?style=for-the-badge&logo=)
+![ООП](https://img.shields.io/badge/-ООП-212121?style=for-the-badge&logo=OOP)
 ![git](https://img.shields.io/badge/-git-212121?style=for-the-badge&logo=git)
