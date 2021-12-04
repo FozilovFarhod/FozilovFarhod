@@ -18,15 +18,15 @@ I am Farhod from Moscow.  Recently I have completed Yandex Praktikum frontend de
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-CC6699?style=for-the-badge&logo=nuxt&logoColor=white)git 
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-CC6699?style=for-the-badge&logo=nuxt&logoColor=white)  
   
 ## Some of my projects  
   
-### Mesto  
-[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">git](https://github.com/FozilovFarhod/russian-travel)
+<!-- ### Mesto  
+[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">](https://github.com/FozilovFarhod/russian-travel)
 ### Russian Travel  
-[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">git](https://github.com/FozilovFarhod/russian-travel)
+[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">](https://github.com/FozilovFarhod/russian-travel)
 ### Movies-explorer  
-[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">git](https://github.com/FozilovFarhod/russian-travel)
+[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">](https://github.com/FozilovFarhod/russian-travel) -->
 ## Contacts
 
