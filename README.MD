@@ -22,7 +22,8 @@ I am Farhod from Moscow.  Recently I have completed Yandex Praktikum frontend de
   
 ## Some of my projects  
   
-### Mesto
+### Mesto  
+![Russian Travel Project](//https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg/100x150)(https://github.com/FozilovFarhod/russian-travel)
 ### Russian Travel
 ### Movies-explorer  
   
