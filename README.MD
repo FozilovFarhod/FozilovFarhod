@@ -4,3 +4,4 @@ I am Farhod from Moscow.  Recently I have completed Yandex Praktikum frontend de
 ## Technologies  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9cf?style=for-the-badge&logo=JavaScript)
 ![React.js](https://img.shields.io/badge/-React.js-212121?style=for-the-badge&logo=React)
+![HTML](https://img.shields.io/badge/-HTML-212121?style=for-the-badge&logo=HTML5)
