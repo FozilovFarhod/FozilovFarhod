@@ -29,7 +29,7 @@ I am Farhod from Moscow.  Recently I have completed Yandex Praktikum frontend de
 ### Movies-explorer  
 [<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">](https://github.com/FozilovFarhod/russian-travel) -->
 ## Stats  
-[![Farkhod's GitHub stats](https://github-readme-stats.vercel.app/api?username=fozilovfarhod)](https://github.com/anuraghazra/github-readme-stats)
+[![Farkhod's GitHub stats](https://github-readme-stats.vercel.app/api?username=fozilovfarhod&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ## Contacts  
 e-mail: fozilovfn@gmail.com  
 telegram: farkhodfozilov
