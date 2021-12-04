@@ -1,4 +1,4 @@
-![header](https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/header-git.jpg)
+![header](https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/header-git.jpg)  
 #Hi 👋!  
 I am Farhod from Moscow.  Recently I have completed Yandex Praktikum frontend developer courses.  Now, I`m beginner level frontend developer.
 ##Technologies  
