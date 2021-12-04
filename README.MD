@@ -23,9 +23,10 @@ I am Farhod from Moscow.  Recently I have completed Yandex Praktikum frontend de
 ## Some of my projects  
   
 ### Mesto  
-[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "100">](https://github.com/FozilovFarhod/russian-travel)
-### Russian Travel
+[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">git](https://github.com/FozilovFarhod/russian-travel)
+### Russian Travel  
+[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">git](https://github.com/FozilovFarhod/russian-travel)
 ### Movies-explorer  
-  
+[<img src = "https://github.com/FozilovFarhod/FozilovFarhod/blob/main/images/russian-travel.jpg" width = "250">git](https://github.com/FozilovFarhod/russian-travel)
 ## Contacts
 
