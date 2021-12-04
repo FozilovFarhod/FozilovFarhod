@@ -13,7 +13,7 @@ I am Farhod from Moscow.  Recently I have completed Yandex Praktikum frontend de
 ![ООП](https://img.shields.io/badge/-ООП-212121?style=for-the-badge&logo=oop)
 ![git](https://img.shields.io/badge/-git-212121?style=for-the-badge&logo=git)  
 ## Learning  
-![TypeScript](hhttps://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=Next&logoColor=black)  
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white)    
