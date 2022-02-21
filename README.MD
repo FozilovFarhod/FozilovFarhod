@@ -11,14 +11,14 @@ I am Farhod from Moscow.  I have recently completed Yandex Praktikum frontend de
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![webpack](https://img.shields.io/badge/-webpack-212121?style=for-the-badge&logo=webpack)
 ![ООП](https://img.shields.io/badge/-ООП-212121?style=for-the-badge&logo=oop)
-![git](https://img.shields.io/badge/-git-212121?style=for-the-badge&logo=git)  
-## Learning  
+![git](https://img.shields.io/badge/-git-212121?style=for-the-badge&logo=git) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=Next&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+## Learning 
+![Next.js](https://img.shields.io/badge/Next.js-F7DF1E?style=for-the-badge&logo=Next&logoColor=black)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SCSS&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-CC6699?style=for-the-badge&logo=nuxt&logoColor=white)  
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-CC6699?style=for-the-badge&logo=nuxt&logoColor=white)
   
 <!-- ## Some of my projects   -->
   
@@ -33,4 +33,3 @@ I am Farhod from Moscow.  I have recently completed Yandex Praktikum frontend de
 ## Contacts  
 e-mail: fozilovfn@gmail.com  
 telegram: farkhodfozilov
-
